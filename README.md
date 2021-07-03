@@ -1,5 +1,5 @@
 # K-Means-Clustering-And-PCA
-# MACHINE LEARNING COURSERA STANFORD COURSE BY ANDREW NG
+# MACHINE LEARNING STANFORD COURSE BY ANDREW NG (COURSERA)
 Implemented the K-means clustering algorithm to compress an image, used principal component analysis to find a low-dimensional representation of face images.
 ### pca.m - Perform principal component analysis
 ### projectData.m - Projects a data set into a lower dimensional space
